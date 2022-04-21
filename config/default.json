@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://Swarnima:Mern2022@mernproject2022.y24mm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://Swarnima:Mern2022@mernproject2022.y24mm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtToken" : "mysecrettoken"
 }
